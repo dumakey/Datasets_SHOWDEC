@@ -1,0 +1,73 @@
+Dataset_1
+---------
+rotation +5
+rotation -5
+rotation +15
+rotation -15
+rotation +25
+rotation -25
+rotation +35
+rotation -35
+rotation +10 gaussian
+rotation -10 gaussian
+rotation +20 gaussian
+rotation -20 gaussian
+rotation +30 gaussian
+rotation -30 gaussian
+rotation +40 gaussian
+rotation -40 gaussian
+
+cases = FAS_INDIA, FASE_INDIA
+
+Dataset_2
+---------
+rotation +5 flip horizontal
+rotation -5 flip horizontal
+rotation +15 flip horizontal
+rotation -15 flip horizontal
+rotation +25 flip horizontal
+rotation -25 flip horizontal
+rotation +35 flip horizontal
+rotation -35 flip horizontal
+rotation +10 gaussian flip horizontal
+rotation -10 gaussian flip horizontal
+rotation +20 gaussian flip horizontal
+rotation -20 gaussian flip horizontal
+rotation +30 gaussian flip horizontal
+rotation -30 gaussian flip horizontal
+rotation +40 gaussian flip horizontal
+rotation -40 gaussian flip horizontal
+
+cases = FAS_INDIA, FASE_INDIA
+
+Dataset_3  (SW = 0)
+---------
+flip horizontal
+flip vertical
+rotation +15
+rotation +25
+rotation +15 flip horizontal
+rotation +25 flip horizontal
+rotation +15 flip vertical
+
+cases = QU700
+
+Dataset_4 (SW = 0)
+---------
+flip horizontal
+flip vertical
+rotation -5
+rotation +5
+rotation -20
+rotation +20
+rotation +10 gaussian flip horizontal
+rotation +10 gaussian flip vertical
+rotation +15 flip horizontal
+rotation -15 flip horizontal
+rotation +30 flip horizontal
+rotation -30 flip horizontal
+rotation +5 flip vertical
+rotation -5 flip vertical
+
+cases = FAS_INDIA, FASE_INDIA
+
